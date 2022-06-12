@@ -5,10 +5,8 @@ Mobile Music_player it will scan all the songs present in your mobile device sav
 
 ## Images
 
-<img src="/images/img1.jpg" style="width:flex; height:flex">
-<img src="/images/img2.jpg" style="width:flex; height:flex">
-<img src="/images/img3.jpg" style="width:flex; height:flex">
-<img src="/images/img4.jpg" style="width:flex; height:flex">
+<img src="/images/SongPlayList.jpg" style="width:flex; height:flex">
+<img src="/images/play.jpg" style="width:flex; height:flex">
 
 ## Technology Stack
 
