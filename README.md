@@ -32,5 +32,5 @@ Clone this repository
 
 1. Clone this project using
 ````
-$ git clone https://github.com/jangidp318/django_aurkoisawal_app.git
+$ git clone https://github.com/FreakWolf/Music_player-Usning-android-studio.git
 ````
